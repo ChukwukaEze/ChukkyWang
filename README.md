@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+<h2 align="center">Hi there, I'm Chukky😃</h2> 
+<p align="center">Software Engineer and Startup Operations Builder</p>
 <!--
 **ChukkyWang/ChukkyWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
