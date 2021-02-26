@@ -1,9 +1,14 @@
-### Hi there 👋
+<br>
+
+<br>
 
 
+<br>
+<h3 align="center">Hi there, I'm Chukky😃</h3> 
+<p align="center">Software Engineer and Startup Operations Enthusiast</p>
 
-<h2 align="center">Hi there, I'm Chukky😃</h2> 
-<p align="center">Software Engineer and Startup Operations Builder</p>
+
+[]
 <!--
 **ChukkyWang/ChukkyWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
