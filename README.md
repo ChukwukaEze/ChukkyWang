@@ -1,4 +1,4 @@
-<br>
+
 
 <br>
 
@@ -18,10 +18,17 @@
 
 <br>
 
-<br>
-
 
 <br>
+<p align="center">I love the excitement of working with truly inspiring people on incredible ideas. I cherish the fulfillment of getting to do the important work of giving life to ideas via design, project implementation, and codes.</p><p align="center"><b>I just want to Build!</b></p>
+
+<br>
+
+<br>
+
+<h6 align="center">STACKS</h6>
+<p align="center">HTML, CSS, SCSS, JavaScript, Python, React, Laravel (Front-End)</p>
+
 
 
 
