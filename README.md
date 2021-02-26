@@ -28,6 +28,10 @@
 
 <h6 align="center">STACKS</h6>
 <p align="center">HTML, CSS, SCSS, JavaScript, Python, React, Laravel (Front-End)</p>
+<br>
+
+
+<br>
 
 
 
