@@ -13,7 +13,7 @@
         <span style="margin: 5px">▪️</span>
     <a href="https://www.linkedin.com/in/eze-chukwuka/" >📘LinkedIn</a>
         <span style="margin: 5px">▪️</span>
-    <a href="bit.ly/Eze-Chukwuka" >🌍Personal Website</a>
+    <a href="https://www.bit.ly/Eze-Chukwuka" >🌍Personal Website</a>
 </p>
 
 <br>
