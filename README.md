@@ -9,8 +9,6 @@
 
 
 <p style="font-size: 12px" align="center">
-    <a href="https://twitter.com/TheChukkyEze">🔔Twitter</a>
-        <span style="margin: 5px">▪️</span>
     <a href="https://www.linkedin.com/in/eze-chukwuka/" >📘LinkedIn</a>
         <span style="margin: 5px">▪️</span>
     <a href="https://www.bit.ly/Eze-Chukwuka" >🌍Personal Website</a>
